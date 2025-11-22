@@ -19,7 +19,8 @@
 - Body (insert the AI Agent’s response using expressions)
 - Click “Execute Workflow.”
 - Submit your form to test the workflow.
+## ScreenShot:
+<img width="1910" height="957" alt="Screenshot 2025-11-22 144619" src="https://github.com/user-attachments/assets/69cad128-50b4-4031-887f-5c874d735d11" />
 
 
 
-Express yourself with
